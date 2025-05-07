@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "javiermaseda.github.io/Islarios-de-contemporaneidad-2/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
